@@ -31,7 +31,7 @@ This is the visualization of Gradient Descent algorithm used in Back-Propogation
 
 After training the model with hidden layer of size 4, we get the decision boundary for data as follows:
 
-<img src="images/decisionb_h4.png" width="800">
+<img src="images/decisionb_h4.png" width="600">
 
 
 However, we still can perform better by tuning the hidden layer size and plotting the results. Following is the summary of accuracies achieved for different number of hidden layer neuron units.
