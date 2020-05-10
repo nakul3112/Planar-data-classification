@@ -16,7 +16,7 @@ This repository contains implementation for Planar Data Classification using  Tw
 # Details: 
 The data looks like a "flower" with some red (label y=0) and some blue (y=1) points. The visulaization of the data is shown in figure:
 
-<img src="images/planar-data.png" width="800">
+<img src="images/planar-data.png" width="400">
 
 
 The model of neural network for this planar data classification is shown below: 
@@ -26,7 +26,7 @@ The model of neural network for this planar data classification is shown below:
 
 This is the visualization of Gradient Descent algorithm used in Back-Propogation to update the model parameters and hence reduce the error in prediction.
 
-<img src="images/sgd.gif" width="800"> 
+<img src="images/sgd.gif" width="400"> 
 
 
 After training the model with hidden layer of size 4, we get the decision boundary for data as follows:
